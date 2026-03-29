@@ -1,16 +1,29 @@
-## Hi there 👋
+# Welcome!
 
-<!--
-**AFlor162/AFlor162** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### My name is Ashley Flores & I'm a junior web developer !
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+**Contact**
+- Email: aflor1870@gmail.com
+- Website: TBD!
+
+---
+
+**Languages**
+- HTML
+- CSS
+- JS
+- Python
+- Java
+
+---
+
+**Current projects**
+
+- [ ] Senior project
+- [ ] Motion graphic project
+- [ ] tbd!
+
